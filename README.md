@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [shieldbug](https://github.com/Arsero/shieldbug)
+- 🌱 I’m currently learning Node JS with TypeScript
+
 <!--
 **Arsero/arsero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
