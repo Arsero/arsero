@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [flexban](https://github.com/arthur112/flexban)
-- 🌱 I’m currently learning Deno and Svelte 
+- 🌱 I’m currently learning Machine Learning 
 - 👯 I’m looking to collaborate on Github Desktop / Visual Studio Code / Svelte / Deno / Electron
 - 🤔 I’m looking for help with Electron-forge to package my app, thanks webpack 😔
 - 💬 Ask me about NodeJS, Typescript, React & Electron
