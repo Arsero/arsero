@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on SFML Apps
 - 🌱 I’m currently learning C++
-- 📫 How to reach me: Discord Arsero#2092
 - ⚡ Fun fact: I made a password manager, twice ! But, I don't use them. 🙃
 
 <!--
