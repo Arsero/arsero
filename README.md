@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on SFML Apps
 - 🌱 I’m currently learning C++
 - ⚡ Fun fact: I made a password manager, twice ! But, I don't use them. 🙃
 
