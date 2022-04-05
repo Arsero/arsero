@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning C++ (after that : Lua and Python)
+- 🌱 I’m currently learning Python and C++
 - 👯 I’m looking to collaborate on Open Source projects
 - 💬 Ask me about the life and the street, the real one
 - 😄 Pronouns: Arsero
