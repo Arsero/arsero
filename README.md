@@ -1,3 +1,4 @@
+<!--
 ### Hi there 👋
 
 - 🌱 I’m currently learning Python and C++
@@ -6,7 +7,7 @@
 - 😄 Pronouns: Arsero
 - ⚡ Fun fact: I made a password manager, twice ! But, I don't use them. (KeePass 2) 🙃
 
-<!--
+
 **Arsero/arsero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
