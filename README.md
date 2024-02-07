@@ -14,7 +14,7 @@ My name is Azzedine, I'm a .Net / React Software Engineer.
 
 🔭 I’m currently working on a web Log book.
 
-🌱 I’m currently learning Clean Architecture, TDD and WordPress.
+🌱 I’m currently learning React Native (Expo), Clean Architecture, TDD and WordPress.
 
 👯 I’m looking to collaborate on Open Source projects.
 
