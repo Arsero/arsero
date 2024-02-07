@@ -6,7 +6,7 @@
 
 Welcome to my profile !
 
-My name is Azzedine, I'm a .Net / React Software Engineer.
+My name is Azzedine, I'm a Software Engineer .Net
 
 ### About me 😄
 
