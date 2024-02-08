@@ -4,7 +4,7 @@
 
 ------
 
-Welcome to my profile !
+Greetings !
 
 My name is Azzedine, I'm a Software Engineer .Net
 
@@ -12,9 +12,9 @@ My name is Azzedine, I'm a Software Engineer .Net
 
 ------
 
-🔭 I’m currently working on a web Log book.
+🔭 I’m currently working on a web Log Book.
 
-🌱 I’m currently learning React Native (Expo), Clean Architecture, TDD and WordPress.
+🌱 I’m currently learning React Native (Expo), Clean Architecture and TDD.
 
 👯 I’m looking to collaborate on Open Source projects.
 
