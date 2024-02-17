@@ -12,13 +12,13 @@ My name is Azzedine, I'm a Software Engineer .Net
 
 ------
 
-🔭 I’m currently working on a web Log Book.
+🔭 I’m currently working on a secret project.
 
-🌱 I’m currently learning React Native (Expo), Clean Architecture and TDD.
+🌱 I’m currently learning React Native, Clean Architecture and TDD.
 
 👯 I’m looking to collaborate on Open Source projects.
 
-💬 Ask me about [Astro](https://astro.build/).
+💬 Ask me about [Docusaurus](https://docusaurus.io/) and [Astro](https://astro.build/).
 
 <!--
 
