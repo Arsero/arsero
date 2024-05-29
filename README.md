@@ -14,7 +14,7 @@ My name is Azzedine, I'm a Software Engineer .Net
 
 🔭 I’m currently working on a secret project.
 
-🌱 I’m currently learning React Native, Clean Architecture and TDD.
+🌱 I’m currently learning Clean Architecture, TDD and WordPress (intruder ?).
 
 👯 I’m looking to collaborate on Open Source projects.
 
